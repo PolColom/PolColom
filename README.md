@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pol Colom</h1>
-<h3 align="center">I'm currently studying Multimedia at UVic</h3>
-(img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478wbi0unypjxfc2dyizfxy5n17xgtym16o188mznf&ep=v1_gifs_search&rid=giphy.gif&ct=g")
+<h1 align="center">Hey qué tal?</h1>
+<h3 align="center">On a Mission...</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
