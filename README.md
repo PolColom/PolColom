@@ -1,5 +1,5 @@
-<h1 align="center">Hey qué tal?</h1>
-<h3 align="center">On a Mission...</h3>
+<h1 align="center">Hola bones!</h1>
+<h3 align="center">Intentant ser millor cada dia!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
